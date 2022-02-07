@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 
- * The type Simple map collection which is backed by a AVL tree.
+ * The type Simple map collection which is backed by a LinkedList.
  * 
  * @param <K> the type parameter
  * @param <V> the type parameter
